@@ -1,13 +1,6 @@
-# Webpack-Typescript Boiler Plate
+# Javascript Game Devlopment
 
-It is a project starter template for Html and Javascript, especially when you need to develop in Typescript
-
-## Installation
-
-
-```bash
-git clone https://github.com/ShiyamAdhithya/WebPack_TypeScript_BoilerPlate.git
-```
+Lets build Javascript game without any external packages.
 
 
 ## Contributing
